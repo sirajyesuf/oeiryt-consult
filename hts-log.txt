@@ -1,0 +1,15 @@
+HTTrack3.49-2 launched on Thu, 08 Apr 2021 16:08:03 at http://http://shreethemes.in/landrick/layouts/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w http://http://shreethemes.in/landrick/layouts/index.html -O "/home/super/websites/orit" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:54:45	Error: 	"Forbidden" (403) at link https://unicons.iconscout.com/release/v3.0.6/css/line.css (from http://shreethemes.in/landrick/layouts/index.html)
+16:55:05	Warning: 	HTML file (58353 bytes) retransferred due to lack of cache: http://shreethemes.in/landrick/layouts/index-saas.html
+16:57:15	Warning: 	File not parsed, looks like binary: http://shreethemes.in/landrick/layouts/fonts/materialdesignicons-webfont.woff2?v=5.9.55
+16:57:15	Warning: 	File not parsed, looks like binary: http://shreethemes.in/landrick/layouts/fonts/materialdesignicons-webfont.ttf?v=5.9.55
+
+HTTrack Website Copier/3.49-2 mirror complete in 49 minutes 12 seconds : 652 links scanned, 650 files written (66974336 bytes overall) [59047348 bytes received at 20002 bytes/sec], 9528429 bytes transferred using HTTP compression in 161 files, ratio 13%, 2.1 requests per connection
+(1 errors, 3 warnings, 0 messages)
